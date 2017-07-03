@@ -9,7 +9,11 @@ module.exports = function(app){
         .post(auth.verify_user);
 
     app.route('/games')
-        .get(game.all_games);
+        .get(game.all_games)
+        .post(game.add_game)
+        
+    app.route('/add_games_bulk')
+        .post(game.add_Games_bulk_JSON);
 
     app.route('/games/:title')
         .get(game.one_game);

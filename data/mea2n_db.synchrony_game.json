@@ -1,0 +1,99 @@
+{ "_id" : { "$oid" : "594f4afc1593b508185901af" }, "title" : "LittleBigPlanet PS Vita", "platform" : "PlayStation Vita", "score" : 9.0, "genre" : "Platformer", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f50211593b508185901b0" }, "title" : "LittleBigPlanet PS Vita -- Marvel Super Hero Edition", "platform" : "PlayStation Vita", "score" : 9.0, "genre" : "Platformer", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f50341593b508185901b1" }, "title" : "Splice: Tree of Life", "platform" : "iPad", "score" : 8.5, "genre" : "Puzzle", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f504d1593b508185901b2" }, "title" : "NHL 13", "platform" : "Xbox 360", "score" : 8.5, "genre" : "Sports", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f50641593b508185901b3" }, "title" : "NHL 13", "platform" : "PlayStation 3", "score" : 8.5, "genre" : "Sports", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f506d1593b508185901b4" }, "title" : "Total War Battles: Shogun", "platform" : "Macintosh", "score" : 7.0, "genre" : "Strategy", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f507b1593b508185901b5" }, "title" : "Double Dragon: Neon", "platform" : "Xbox 360", "score" : 3.0, "genre" : "Fighting", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f50881593b508185901b6" }, "title" : "Guild Wars 2", "platform" : "PC", "score" : 9.0, "genre" : "RPG", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f50961593b508185901b7" }, "title" : "Double Dragon: Neon", "platform" : "PlayStation 3", "score" : 3.0, "genre" : "Fighting", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f50a11593b508185901b8" }, "title" : "Total War Battles: Shogun", "platform" : "PC", "score" : 7.0, "genre" : "Strategy", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f50ac1593b508185901b9" }, "title" : "Tekken Tag Tournament 2", "platform" : "PlayStation 3", "score" : 7.5, "genre" : "Fighting", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901ba" }, "title" : "Tekken Tag Tournament 2", "platform" : "Xbox 360", "score" : 7.5, "genre" : "Fighting", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901bb" }, "title" : "Wild Blood", "platform" : "iPhone", "score" : 7, "genre" : "", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901bc" }, "title" : "Mark of the Ninja", "platform" : "Xbox 360", "score" : 9, "genre" : "Action,  Adventure", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901bd" }, "title" : "Mark of the Ninja", "platform" : "PC", "score" : 9, "genre" : "Action,  Adventure", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901be" }, "title" : "Home: A Unique Horror Adventure", "platform" : "Macintosh", "score" : 6.5, "genre" : "Adventure", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901bf" }, "title" : "Home: A Unique Horror Adventure", "platform" : "PC", "score" : 6.5, "genre" : "Adventure", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901c0" }, "title" : "Avengers Initiative", "platform" : "iPhone", "score" : 8, "genre" : "Action", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901c1" }, "title" : "Way of the Samurai 4", "platform" : "PlayStation 3", "score" : 5.5, "genre" : "Action,  Adventure", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901c2" }, "title" : "JoJos Bizarre Adventure HD", "platform" : "Xbox 360", "score" : 7, "genre" : "Fighting", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901c3" }, "title" : "JoJos Bizarre Adventure HD", "platform" : "PlayStation 3", "score" : 7, "genre" : "Fighting", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901c4" }, "title" : "Mass Effect 3: Leviathan", "platform" : "Xbox 360", "score" : 7.5, "genre" : "RPG", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901c5" }, "title" : "Mass Effect 3: Leviathan", "platform" : "PlayStation 3", "score" : 7.5, "genre" : "RPG", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901c6" }, "title" : "Mass Effect 3: Leviathan", "platform" : "PC", "score" : 7.5, "genre" : "RPG", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901c7" }, "title" : "Dark Souls {Prepare to Die Edition}", "platform" : "PC", "score" : 9, "genre" : "Action,  RPG", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901c8" }, "title" : "Symphony", "platform" : "PC", "score" : 7, "genre" : "Shooter", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901c9" }, "title" : "Bastion", "platform" : "iPad", "score" : 9, "genre" : "Action,  RPG", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901ca" }, "title" : "Tom Clancys Ghost Recon Phantoms", "platform" : "PC", "score" : 7.5, "genre" : "Shooter", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901cb" }, "title" : "Thirty Flights of Loving", "platform" : "PC", "score" : 8, "genre" : "Adventure", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901cc" }, "title" : "Legasista", "platform" : "PlayStation 3", "score" : 6.5, "genre" : "Action,  RPG", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901cd" }, "title" : "The Walking Dead: The Game -- Episode 3: Long Road Ahead", "platform" : "Macintosh", "score" : 9, "genre" : "Adventure", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901ce" }, "title" : "World of Warcraft: Mists of Pandaria", "platform" : "PC", "score" : 8.7, "genre" : "RPG", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901cf" }, "title" : "Hell Yeah! Wrath of the Dead Rabbit", "platform" : "PlayStation 3", "score" : 4.9, "genre" : "Platformer", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901d0" }, "title" : "Pokemon White Version 2", "platform" : "Nintendo DS", "score" : 9.6, "genre" : "RPG", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901d1" }, "title" : "War of the Roses", "platform" : "PC", "score" : 7.3, "genre" : "Action", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901d2" }, "title" : "Pokemon Black Version 2", "platform" : "Nintendo DS", "score" : 9.6, "genre" : "RPG", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901d3" }, "title" : "Drakerider", "platform" : "iPhone", "score" : 6.5, "genre" : "RPG", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901d4" }, "title" : "The Walking Dead: The Game -- Episode 3: Long Road Ahead", "platform" : "Xbox 360", "score" : 9, "genre" : "Adventure", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901d5" }, "title" : "The Walking Dead: The Game -- Episode 3: Long Road Ahead", "platform" : "PC", "score" : 9, "genre" : "Adventure", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901d6" }, "title" : "The Walking Dead: The Game -- Episode 3: Long Road Ahead", "platform" : "PlayStation 3", "score" : 9, "genre" : "Adventure", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901d7" }, "title" : "Rock Band Blitz", "platform" : "Xbox 360", "score" : 8.5, "genre" : "Music", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901d8" }, "title" : "Counter-Strike: Global Offensive", "platform" : "Macintosh", "score" : 8, "genre" : "Shooter", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901d9" }, "title" : "Worms Revolution", "platform" : "PlayStation 3", "score" : 8.5, "genre" : "Strategy", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901da" }, "title" : "Worms Revolution", "platform" : "PC", "score" : 8.5, "genre" : "Strategy", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901db" }, "title" : "Worms Revolution", "platform" : "Xbox 360", "score" : 8.5, "genre" : "Strategy", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901dc" }, "title" : "Bad Piggies", "platform" : "iPhone", "score" : 9.2, "genre" : "Action", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901dd" }, "title" : "Resident Evil 6", "platform" : "PlayStation 3", "score" : 7.9, "genre" : "Action,  Adventure", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901de" }, "title" : "Resident Evil 6", "platform" : "Xbox 360", "score" : 7.9, "genre" : "Action,  Adventure", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901df" }, "title" : "ShadO", "platform" : "PC", "score" : 7, "genre" : "Adventure", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901e0" }, "title" : "Demons Score", "platform" : "iPhone", "score" : 6.9, "genre" : "Action", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901e1" }, "title" : "NBA 2K13", "platform" : "Xbox 360", "score" : 9.1, "genre" : "Sports", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901e2" }, "title" : "Counter-Strike: Global Offensive", "platform" : "PC", "score" : 8, "genre" : "Shooter", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901e3" }, "title" : "The World Ends with You: Solo Remix", "platform" : "iPad", "score" : 9.5, "genre" : "RPG", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901e4" }, "title" : "Counter-Strike: Global Offensive", "platform" : "PlayStation 3", "score" : 8, "genre" : "Shooter", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901e5" }, "title" : "The World Ends with You: Solo Remix", "platform" : "iPhone", "score" : 9.5, "genre" : "RPG", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901e6" }, "title" : "Counter-Strike: Global Offensive", "platform" : "Xbox 360", "score" : 8, "genre" : "Shooter", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901e7" }, "title" : "Madden NFL 13", "platform" : "PlayStation Vita", "score" : 6, "genre" : "Sports", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901e8" }, "title" : "Madden NFL 13", "platform" : "PlayStation 3", "score" : 9, "genre" : "Sports", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901e9" }, "title" : "Madden NFL 13", "platform" : "Xbox 360", "score" : 9, "genre" : "Sports", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901ea" }, "title" : "Hoodwink", "platform" : "PC", "score" : 2.5, "genre" : "Adventure", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901eb" }, "title" : "NBA 2K13", "platform" : "PlayStation 3", "score" : 9.1, "genre" : "Sports", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901ec" }, "title" : "NBA 2K13", "platform" : "PC", "score" : 9.1, "genre" : "Sports", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901ed" }, "title" : "Lili: Child of Geos", "platform" : "iPhone", "score" : 7, "genre" : "Adventure", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901ee" }, "title" : "Marvel vs. Capcom Origins", "platform" : "Xbox 360", "score" : 8.2, "genre" : "Fighting", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901ef" }, "title" : "Marvel vs. Capcom Origins", "platform" : "PlayStation 3", "score" : 8.2, "genre" : "Fighting", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901f0" }, "title" : "Dead or Alive 5", "platform" : "PlayStation 3", "score" : 8.8, "genre" : "Fighting", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901f1" }, "title" : "Dead or Alive 5", "platform" : "Xbox 360", "score" : 8.8, "genre" : "Fighting", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901f2" }, "title" : "Medal of Honor Warfighter", "platform" : "PC", "score" : 4, "genre" : "Shooter", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901f3" }, "title" : "Professor Layton and the Miracle Mask", "platform" : "Nintendo 3DS", "score" : 8.7, "genre" : "Adventure", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901f4" }, "title" : "Hotline Miami", "platform" : "PC", "score" : 8.8, "genre" : "Action", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901f5" }, "title" : "Edna & Harvey: Harveys New Eyes", "platform" : "PC", "score" : 6, "genre" : "Adventure", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901f6" }, "title" : "Medal of Honor Warfighter", "platform" : "PlayStation 3", "score" : 4, "genre" : "Shooter", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901f7" }, "title" : "Medal of Honor Warfighter", "platform" : "Xbox 360", "score" : 4, "genre" : "Shooter", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901f8" }, "title" : "Transformers: Fall of Cybertron", "platform" : "Xbox 360", "score" : 8.5, "genre" : "Shooter", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901f9" }, "title" : "Transformers: Fall of Cybertron", "platform" : "PlayStation 3", "score" : 8.5, "genre" : "Shooter", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901fa" }, "title" : "Hero Academy", "platform" : "PC", "score" : 9, "genre" : "Board", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901fb" }, "title" : "Hero Academy", "platform" : "iPhone", "score" : 9, "genre" : "Strategy", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901fc" }, "title" : "Puzzle Craft", "platform" : "iPhone", "score" : 9, "genre" : "Puzzle", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b508185901fd" }, "title" : "Realms Of Ancient War", "platform" : "Xbox 360", "score" : 5.5, "genre" : "Action", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901fe" }, "title" : "Realms Of Ancient War", "platform" : "PlayStation 3", "score" : 5.5, "genre" : "Action", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b508185901ff" }, "title" : "Anomaly: Warzone Earth", "platform" : "PlayStation 3", "score" : 8.2, "genre" : "Action", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b50818590200" }, "title" : "Darksiders II", "platform" : "PC", "score" : 7.5, "genre" : "Action", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b50818590201" }, "title" : "Left 4 Dead 2: Cold Stream", "platform" : "Macintosh", "score" : 7, "genre" : "Shooter", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b50818590202" }, "title" : "Left 4 Dead 2: Cold Stream", "platform" : "PC", "score" : 7, "genre" : "Shooter", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b50818590203" }, "title" : "Puzzle Craft", "platform" : "Android", "score" : 9, "genre" : "Puzzle", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b50818590204" }, "title" : "Left 4 Dead 2: Cold Stream", "platform" : "Xbox 360", "score" : 7, "genre" : "Shooter", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b50818590205" }, "title" : "Horn", "platform" : "iPhone", "score" : 9, "genre" : "Action,  Adventure", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b50818590206" }, "title" : "Forza Horizon", "platform" : "Xbox 360", "score" : 9, "genre" : "Racing", "editors_choice" : "Y" }
+{ "_id" : { "$oid" : "594f53a51593b50818590207" }, "title" : "FIFA Soccer 13", "platform" : "PlayStation Vita", "score" : 4, "genre" : "Sports", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b50818590208" }, "title" : "Mugen Souls", "platform" : "PlayStation 3", "score" : 3.9, "genre" : "Strategy, RPG", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b50818590209" }, "title" : "Crazy Taxi", "platform" : "iPhone", "score" : 7.1, "genre" : "Racing, Action", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b5081859020a" }, "title" : "New Little Kings Story", "platform" : "PlayStation Vita", "score" : 5.8, "genre" : "RPG", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b5081859020b" }, "title" : "Fable: The Journey", "platform" : "Xbox 360", "score" : 7.2, "genre" : "Action,  RPG", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b5081859020c" }, "title" : "The Lord of the Rings Online: Riders of Rohan", "platform" : "PC", "score" : 8.3, "genre" : "RPG", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b5081859020d" }, "title" : "Doom 3: BFG Edition", "platform" : "Xbox 360", "score" : 7.6, "genre" : "RPG", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b5081859020e" }, "title" : "Rugby League Live 2", "platform" : "Xbox 360", "score" : 6, "genre" : "Sports", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b5081859020f" }, "title" : "Rugby League Live 2", "platform" : "PlayStation 3", "score" : 6, "genre" : "Sports", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b50818590210" }, "title" : "Doom 3: BFG Edition", "platform" : "PlayStation 3", "score" : 7.6, "genre" : "RPG", "editors_choice" : "N" }
+{ "_id" : { "$oid" : "594f53a51593b50818590211" }, "title" : "Punch Quest", "platform" : "iPhone", "score" : 9.3, "genre" : "Action", "editors_choice" : "Y" }

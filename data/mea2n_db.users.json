@@ -1,0 +1,1 @@
+{ "_id" : { "$oid" : "593d75213c6fb2130050833c" }, "name" : "manak", "password" : "$2a$10$QT81lbpTN3miEosCq/vnwuktQw2ZjH0Xvz.UcaXIGR0KQQF9weQXq", "email" : "manak@home.com", "dob" : { "$date" : "2017-02-02T00:00:00.000+0000" }, "age" : 31, "createdate" : { "$date" : "2017-06-11T16:51:45.787+0000" }, "__v" : 0 }

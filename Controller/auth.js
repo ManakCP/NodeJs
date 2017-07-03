@@ -3,6 +3,8 @@ const mongoose = require('mongoose');
 let user = mongoose.model('Users');
 const bcrypt = require('bcrypt');
 const config = require('../config');
+const userData = '../data/mea2n_db.users.json';
+
 
 exports.add_user = (req, res) => {
     let signUp_user = new user(req.body);
