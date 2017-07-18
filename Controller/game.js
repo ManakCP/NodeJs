@@ -1,14 +1,26 @@
 'use strict';
 const mongoose = require('mongoose');
+const jwt = require('jsonwebtoken');
+const auth = require('./auth');
 let game = mongoose.model('synchrony_game');
 const config = require('../config');
 
 exports.all_games = (req, res) => {    
-     game.find({}, function(err, response){         
-         if (err)
-            res.json(err);
-         res.json(response);
-     })
+    const token = req.body.JWTtoken || req.query.JWTtoken || req.header['x-access-token'];
+
+    if (token){
+        jwt.verify(token, config.secret, (err, decode) => {
+            if (err) {
+                res.json({ success: 0, message: 'Token authentication failed!! : ' + err });
+            }else{
+                game.find({}, function(err, response){         
+                    if (err)
+                        res.json({ success: 0, message: 'Error in retriving records : ' + err});
+                    res.json({ success: 1, data: response});
+                })
+            }
+        })
+    }     
 }
 
 exports.one_game = (req,res) => {    

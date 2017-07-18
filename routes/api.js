@@ -7,9 +7,12 @@ module.exports = function(app){
 
     app.route('/login')
         .post(auth.verify_user);
+    
+    // app.route('/refresh')
+    //     .post(auth.GetToken)
 
-    app.route('/games')
-        .get(game.all_games)
+    app.route('/games')        
+        .post(game.all_games)
         .post(game.add_game)
         
     app.route('/add_games_bulk')
@@ -20,6 +23,6 @@ module.exports = function(app){
     
     app.route('/greet')
         .get(function(req, res){
-            res.send('Hi Manak!! I am running on NodeJs.. its really exited!!');
+            res.send('Hey Manak!!</br> <span style="padding-left:5em">I am running on NodeJs.. its really excited!!</span>');
         })
 };

@@ -10,8 +10,10 @@ let express = require('express'),
     Games = require('./Models/games'),
     //Routes
     api = require('./routes/api'),
+    //JSON Web Token
+    jwt = require('jsonwebtoken');
     //Configuration
-    config = require('./config');
+    config = require('./config');    
 
 mongoose.Promise = global.Promise;
 mongoose.connect(config.connect_mlab);

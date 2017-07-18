@@ -2,8 +2,10 @@
 const mongoose = require('mongoose');
 let user = mongoose.model('Users');
 const bcrypt = require('bcrypt');
+const jwt = require('jsonwebtoken');
+const jwtRefresh = require('jsonwebtoken-refresh');
 const config = require('../config');
-const userData = '../data/mea2n_db.users.json';
+
 
 
 exports.add_user = (req, res) => {
@@ -28,14 +30,33 @@ exports.verify_user = (req, res) => {
     user.findOne({email: req.body.email}, function(err, response){
         if (err) res.send(err);
 
-        if (!response){
-            res.json({success: false, message: 'Invalid emailId'});
-        }else if (response){
-            if (bcrypt.compareSync(req.body.password, response.password)){                
-                res.json({success: true, message: 'valid user', username: response.name})
+        if (!response) {
+            res.json({success: false, message: 'Authentication failed. User not found.'});
+        } else if (response) {
+            if (!bcrypt.compareSync(req.body.password, response.password)){
+                res.json({success: false, message: 'Authentication failed. Wrong password.'});                
             }else{
-                res.json({success: false, message: 'Invalid password'});
+                
+                const token = jwt.sign({data: response.name}, config.secret, { expiresIn: 20 });                
+
+                res.json({success: true, message: 'valid user', username: response.name, JWTtoken: token})
+                //res.json({success: true, message: 'valid user', username: response.name, JWTtoken: this.GetToken('', response)})                
             }
         }
     })
+
+    // In Progress
+    exports.GetToken = (inUseToken, response) => {
+        let token;
+        if (inUseToken != '') {
+            jwt.verify(token, config.secret, (err, decode) => {
+                if (err) {
+                    token = jwtRefresh.refresh(expiredToken, 20, config.secret);
+                }
+            })
+        } else {
+             token = jwt.sign({data: response.name}, config.secret, { expiresIn: 20 });
+        }
+        return token;
+    }
 }
